@@ -42,7 +42,8 @@ void CPUP::PopulateMaps()
 		m_fileNames[12] = "version.xml";//
 		m_fileNames[14] = "eap_kbl.bin";//
 		m_fileNames[15] = "bd_firm_info.json";//
-		m_fileNames[17] = "C004000X.bls";//
+		m_fileNames[17] = "floyd_icc_firmware.bls";//
+		m_fileNames[258] = "oberon_sec_ldr_a.bin";//
 		m_fileNames[259] = "oberon_sec_ldr_b.bin";//
 		m_fileNames[260] = "oberon_sec_ldr_c.bin";//
 		
