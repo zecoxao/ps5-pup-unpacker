@@ -38,7 +38,7 @@ void CPUP::PopulateMaps()
 		m_fileNames[2] = "updatemode.elf";//
 		m_fileNames[4] = "mbr.bin";//
 		m_fileNames[5] = "kernel.bin";//
-		m_fileNames[11] = "C300000X.bls";//
+		m_fileNames[11] = "efc_ssd_firmware.bls";//
 		m_fileNames[12] = "version.xml";//
 		m_fileNames[14] = "eap_kbl.bin";//
 		m_fileNames[15] = "bd_firm_info.json";//
