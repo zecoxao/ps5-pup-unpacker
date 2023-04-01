@@ -49,10 +49,10 @@ void CPUP::PopulateMaps()
 		m_fileNames[13] = "emc_salina_b0.bin";//
 		m_fileNames[14] = "eap_kbl.bin";//
 		m_fileNames[15] = "bd_firm_info.json";//
-		m_fileNames[16] = "emc_salina_c0.bin";//
+		m_fileNames[16] = "emc_salina_c0.bls";//
 		m_fileNames[17] = "floyd_salina_c0.bls";//
-		m_fileNames[18] = "usb_pdc_salina_c0.bin";//
-		m_fileNames[20] = "emc_salina_d0.bin";//
+		m_fileNames[18] = "usb_pdc_salina_c0.bls";//
+		m_fileNames[20] = "emc_salina_d0.bls";//
 		m_fileNames[256] = "ariel_a0.bin";//
 		m_fileNames[257] = "oberon_sec_ldr_a0.bin";//
 		m_fileNames[258] = "oberon_sec_ldr_b0.bin";//
