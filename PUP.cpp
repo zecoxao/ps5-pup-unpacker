@@ -53,11 +53,13 @@ void CPUP::PopulateMaps()
 		m_fileNames[17] = "floyd_salina_c0.bls";//
 		m_fileNames[18] = "usb_pdc_salina_c0.bls";//
 		m_fileNames[20] = "emc_salina_d0.bls";//
+		m_fileNames[21] = "eap_kbl_2.bin";//
 		m_fileNames[256] = "ariel_a0.bin";//
 		m_fileNames[257] = "oberon_sec_ldr_a0.bin";//
 		m_fileNames[258] = "oberon_sec_ldr_b0.bin";//
 		m_fileNames[259] = "oberon_sec_ldr_c0.bin";//
 		m_fileNames[260] = "oberon_sec_ldr_d0.bin";//
+		m_fileNames[262] = "oberon_sec_ldr_e0.bin";//
 		m_fileNames[752] = "qa_test_1.pkg";//
 		m_fileNames[753] = "qa_test_2.pkg";//
 		m_fileNames[754] = "qa_test_3.pkg";//
