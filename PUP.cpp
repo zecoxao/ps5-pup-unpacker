@@ -36,24 +36,42 @@ void CPUP::PopulateMaps()
 	{
 		m_fileNames[1] = "eula.xml";//
 		m_fileNames[2] = "updatemode.elf";//
+		m_fileNames[3] = "emc_salina_a0.bin";//
 		m_fileNames[4] = "mbr.bin";//
 		m_fileNames[5] = "kernel.bin";//
-		m_fileNames[11] = "efc_ssd_firmware.bls";//
-		m_fileNames[12] = "version.xml";//
+		m_fileNames[6] = "unk_06.bin";//
+		m_fileNames[7] = "unk_07.bin";//
+		m_fileNames[8] = "unk_08.bin";//
+		m_fileNames[9] = "unk_09.bin";//
+		m_fileNames[10] = "CP.bin";//
+		m_fileNames[11] = "titania.bls";//
+		m_fileNames[12] = "version_name.xml";//
+		m_fileNames[13] = "emc_salina_b0.bin";//
 		m_fileNames[14] = "eap_kbl.bin";//
 		m_fileNames[15] = "bd_firm_info.json";//
-		m_fileNames[17] = "floyd_icc_firmware.bls";//
-		m_fileNames[258] = "oberon_sec_ldr_a.bin";//
-		m_fileNames[259] = "oberon_sec_ldr_b.bin";//
-		m_fileNames[260] = "oberon_sec_ldr_c.bin";//
+		m_fileNames[16] = "emc_salina_c0.bin";//
+		m_fileNames[17] = "floyd_salina_c0.bls";//
+		m_fileNames[18] = "usb_pdc_salina_c0.bin";//
+		m_fileNames[20] = "emc_salina_d0.bin";//
+		m_fileNames[256] = "ariel_a0.bin";//
+		m_fileNames[257] = "oberon_sec_ldr_a0.bin";//
+		m_fileNames[258] = "oberon_sec_ldr_b0.bin";//
+		m_fileNames[259] = "oberon_sec_ldr_c0.bin";//
+		m_fileNames[260] = "oberon_sec_ldr_d0.bin";//
+		m_fileNames[752] = "qa_test_1.pkg";//
+		m_fileNames[753] = "qa_test_2.pkg";//
+		m_fileNames[754] = "qa_test_3.pkg";//
 		
 	}
 	
 	{
-		m_deviceNames[16] = "/dev/sflash0s0x32b";
-		m_deviceNames[18] = "/dev/sflash0s0x41b";
-		m_deviceNames[515] = "/dev/ssd0.system_b";//
-		m_deviceNames[516] = "/dev/ssd0.system_ex_b";//
+		m_deviceNames[512] = "/dev/unk_512.bin";//
+		m_deviceNames[513] = "/dev/wlanbt.bin";//impossible to handle without keys
+		m_deviceNames[514] = "/dev/unk_514.bin";//
+		m_deviceNames[515] = "/dev/ssd0.system_b";//impossible to handle without keys
+		m_deviceNames[516] = "/dev/ssd0.system_ex_b";//impossible to handle without keys
+		m_deviceNames[517] = "/dev/unk_517.bin";//
+		m_deviceNames[518] = "/dev/unk_518.bin";//
 		m_deviceNames[519] = "/dev/ssd0.preinst";//
 	}
 }
