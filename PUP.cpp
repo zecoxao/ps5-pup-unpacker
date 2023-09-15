@@ -59,6 +59,7 @@ void CPUP::PopulateMaps()
 		m_fileNames[258] = "oberon_sec_ldr_b0.bin";//
 		m_fileNames[259] = "oberon_sec_ldr_c0.bin";//
 		m_fileNames[260] = "oberon_sec_ldr_d0.bin";//
+		m_fileNames[261] = "oberon_sec_ldr_f0.bin";//
 		m_fileNames[262] = "oberon_sec_ldr_e0.bin";//
 		m_fileNames[752] = "qa_test_1.pkg";//
 		m_fileNames[753] = "qa_test_2.pkg";//
