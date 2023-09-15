@@ -54,6 +54,7 @@ void CPUP::PopulateMaps()
 		m_fileNames[18] = "usb_pdc_salina_c0.bls";//
 		m_fileNames[20] = "emc_salina_d0.bls";//
 		m_fileNames[21] = "eap_kbl_2.bin";//
+		m_fileNames[22] = "font.zip";//
 		m_fileNames[256] = "ariel_a0.bin";//
 		m_fileNames[257] = "oberon_sec_ldr_a0.bin";//
 		m_fileNames[258] = "oberon_sec_ldr_b0.bin";//
